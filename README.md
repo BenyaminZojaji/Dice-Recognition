@@ -1,5 +1,5 @@
 # Dice-Recognition
-- 6-sided Dice Recognition using **opencv** methodes(canny, threshold, close morphology, HoughCircles and etc).
+- 6-sided Dice Recognition using **opencv** methods(canny, threshold, close morphology, HoughCircles and etc).
 > ![originaldice0](https://user-images.githubusercontent.com/77120507/146638304-956a7454-d5b9-4386-bf8c-5308c9b00c52.png)
 ![closedice0](https://user-images.githubusercontent.com/77120507/146638307-87acfae9-4b72-4989-8253-e57976b3d160.png)
 ![detecteddice0](https://user-images.githubusercontent.com/77120507/146638309-beca0da7-afad-477a-9631-263c71470a62.png)
